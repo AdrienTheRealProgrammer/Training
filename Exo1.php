@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>DEVALEX MODIF</title>
-        <!-- DEVALEX -->
+        <title>MODIF MODIF MODIF</title>
+        <!-- MODIF MODIF MODIF -->
     </head>
 
     <body>
