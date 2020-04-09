@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>EXO 1</title>
+        <title>MODIF TEST</title>
     </head>
 
     <body>
